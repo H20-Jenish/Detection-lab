@@ -21,5 +21,6 @@ The goal of this Detection Lab project is to create a simulated environment for 
 - ELK Stack (Elasticsearch, Logstash, Kibana): For advanced log analysis and visualization.
 
 ## Network Topology
+
 ![Pentest_lab layout drawio](https://github.com/user-attachments/assets/67f7771f-2bf9-49c0-80cb-3c033d06ae2c)
 <br><a> Ref. 1: Network Diagram </a></br>
