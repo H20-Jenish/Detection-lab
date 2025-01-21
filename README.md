@@ -51,5 +51,5 @@ The lab consists of multiple zones, including:
 - Virtualization: VMware Workstation.  
 
 ## Network Topology
-![Pentest_lab layout drawio](https://github.com/user-attachments/assets/336ef3e3-3c56-4f34-8e87-a72cdbfcf1d5)
+![Pentest_lab layout drawio](https://github.com/user-attachments/assets/4082d708-9abf-4e0b-89a5-f43cd9cc7cf3)
 <br> <a> Ref. 1: Network Layout for Lab </a></br>
