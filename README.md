@@ -47,5 +47,6 @@ The lab consists of multiple zones, including:
 - Identify and address common storage-related risks, such as unauthorized access and data leakage, by applying appropriate security measures.
   
 ## Network Topology
-![Pentest_lab layout drawio](https://github.com/user-attachments/assets/9b7899ce-d9c5-475c-b936-6e2f2662340d)
+![Pentest_lab layout drawio](https://github.com/user-attachments/assets/f760176b-b1c5-4a02-b423-d8ea1ae7cc82)
 <br> <a> Ref. 1: Network Layout for Lab </a></br>
+
