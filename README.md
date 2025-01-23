@@ -12,7 +12,7 @@ The lab consists of multiple zones, including:
 - Isolated Zone: Dedicated to offensive operations and vulnerability analysis.  
 
 ## Skills Learned  
-### 1.1 [Network Security Architecture](https://github.com/H20-Jenish/1.1-Network-Security-Architecture)
+### 1.1 [Network Security Architecture](https://github.com/H20-Jenish/Detection-lab/blob/main/1.0%20Network_Security_Architecture/1.0%20Network_Security_Architecture.md)
 - Designed VLANs and subnets for secure network segmentation.  
 - Configured pfSense firewalls with advanced NAT, VPN, and IDS/IPS rules.  
 - Implemented SPAN ports for traffic mirroring and analysis.  
