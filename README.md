@@ -32,7 +32,7 @@ The lab consists of multiple zones, including:
 - Analyzed network traffic using Zeek and Suricata.  
 - Monitored endpoints for malware using SIEM and HIDS tools.  
 
-### 5.0 Digital Forensics  
+### 5.0 [Digital Forensics](https://github.com/H20-Jenish/Detection-lab/blob/main/5.0%20Digital%20Forensics/5.0%20Digital%20Forensics.md)  
 - Performed disk and memory forensics using REMux and Flare VM.  
 - Captured and analyzed packet data for breach investigation with Wireshark.  
 
