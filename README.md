@@ -36,7 +36,7 @@ The lab consists of multiple zones, including:
 - Performed disk and memory forensics using REMux and Flare VM.  
 - Captured and analyzed packet data for breach investigation with Wireshark.  
 
-### 6.0 System and Network Hardening  
+### 6.0 [System and Network Hardening](https://github.com/H20-Jenish/Detection-lab/blob/main/6.0%20System%20and%20Network%20Hardening/6.0%20System%20and%20Network%20Hardening.md)  
 - Hardened servers by disabling unused services and enforcing strict policies.  
 - Secured IIS by implementing HTTPS and mitigating web application vulnerabilities.  
 - Shared storage on TrueNAS was protected using encryption and ACLs.  
