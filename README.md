@@ -17,12 +17,12 @@ The lab consists of multiple zones, including:
 - Configured pfSense firewalls with advanced NAT, VPN, and IDS/IPS rules.  
 - Implemented SPAN ports for traffic mirroring and analysis.  
 
-### 1.2 Active Directory Security  
+### 1.2 [Active Directory Security](https://github.com/H20-Jenish/Detection-lab/blob/main/2.0%20Active%20Directory%20Security/2.0%20Active%20Directory%20Security.md)
 - Managed AD configurations, group policies, and user permissions.  
 - Secured authentication with RBAC and OU structures.  
 - Audited AD for weak configurations and privilege escalation paths.  
 
-### 1.3 Penetration Testing  
+### 1.3 [Penetration Testing](https://github.com/H20-Jenish/Detection-lab/blob/main/3.0%20Penetration%20Testing/3.0%20Penetration%20Testing.md)
 - Conducted vulnerability scans with Nmap, Nikto, and Nessus.  
 - Performed red-team activities using Kali Linux tools, including Metasploit and Hydra.  
 - Exploited vulnerabilities to test defences and lateral movement in AD.  
