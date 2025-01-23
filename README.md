@@ -39,8 +39,13 @@ The lab consists of multiple zones, including:
 ### 6.0 [System and Network Hardening](https://github.com/H20-Jenish/Detection-lab/blob/main/6.0%20System%20and%20Network%20Hardening/6.0%20System%20and%20Network%20Hardening.md)  
 - Hardened servers by disabling unused services and enforcing strict policies.  
 - Secured IIS by implementing HTTPS and mitigating web application vulnerabilities.  
-- Shared storage on TrueNAS was protected using encryption and ACLs.  
+- Shared storage on TrueNAS was protected using encryption and ACLs.
 
+### 7.0 [File Storage Security](https://github.com/H20-Jenish/Detection-lab/blob/main/7.0%20File%20Storage%20Security/7.0%20File%20Storage%20Security.md)    
+- Configure TrueNAS for secure file storage, integrate it with Active Directory for user authentication, and implement encryption techniques to protect data at rest and in transit.
+- Establish access control mechanisms with authentication and authorization, and use Wazuh to monitor file storage activities for anomalies or potential threats.
+- Identify and address common storage-related risks, such as unauthorized access and data leakage, by applying appropriate security measures.
+  
 ## Network Topology
 ![Pentest_lab layout drawio](https://github.com/user-attachments/assets/4082d708-9abf-4e0b-89a5-f43cd9cc7cf3)
 <br> <a> Ref. 1: Network Layout for Lab </a></br>
