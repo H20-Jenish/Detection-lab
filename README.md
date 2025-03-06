@@ -23,12 +23,12 @@ The lab consists of multiple zones, including:
 - Audited AD for weak configurations and privilege escalation paths.  
 
 ### 3.0 [Penetration Testing](https://github.com/H20-Jenish/Detection-lab/blob/main/3.0%20Penetration%20Testing/3.0%20Penetration%20Testing.md)
-- Conducted vulnerability scans with Nmap, Nikto, and Nessus.  
+- Conducted vulnerability scans with Nmap and OpenVAS.  
 - Performed red-team activities using Kali Linux tools, including Metasploit and Hydra.  
 - Exploited vulnerabilities to test defences and lateral movement in AD.  
 
 ### 4.0 [Threat Detection and Response](https://github.com/H20-Jenish/Detection-lab/blob/main/4.0%20Threat%20Detection%20and%20Response/4.0%20Threat%20Detection%20and%20Response.md)  
-- Configured Wazuh and Security Onion for log correlation, intrusion detection, and threat analysis.  
+- Configured Wazuh and Elastic Stack for log correlation, intrusion detection, and threat analysis.  
 - Analyzed network traffic using Zeek and Suricata.  
 - Monitored endpoints for malware using SIEM and HIDS tools.  
 
