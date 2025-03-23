@@ -47,8 +47,10 @@ The lab consists of multiple zones, including:
 - Identify and address common storage-related risks, such as unauthorized access and data leakage, by applying appropriate security measures.
   
 ## Network Topology
-![Detection lab layout drawio](https://github.com/user-attachments/assets/076afc4e-4f68-49cf-a909-b8a9464ea968)
+![Detection lab layout](https://github.com/user-attachments/assets/bd44846b-a394-48b3-be82-4477a98455e3)
 <br> <a> Ref. 1: Network Layout for Lab </a></br>
+
+
 
 
 
