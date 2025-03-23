@@ -37,7 +37,8 @@ The lab consists of multiple zones, including:
 - Captured and analyzed packet data for breach investigation with Wireshark.  
 
 ### 6.0 [System and Network Hardening](https://github.com/H20-Jenish/Detection-lab/blob/main/6.0%20System%20and%20Network%20Hardening/6.0%20System%20and%20Network%20Hardening.md)  
-- Hardened servers by disabling unused services and enforcing strict policies.  
+- Hardened servers by disabling unused 
+services and enforcing strict policies.  
 - Secured IIS by implementing HTTPS and mitigating web application vulnerabilities.  
 - Shared storage on TrueNAS was protected using encryption and ACLs.
 
@@ -47,8 +48,9 @@ The lab consists of multiple zones, including:
 - Identify and address common storage-related risks, such as unauthorized access and data leakage, by applying appropriate security measures.
   
 ## Network Topology
-![Detection lab layout](https://github.com/user-attachments/assets/bd44846b-a394-48b3-be82-4477a98455e3)
+![Detection lab layout](https://github.com/user-attachments/assets/f9548839-61d6-4daf-bba1-647d1f250bf8)
 <br> <a> Ref. 1: Network Layout for Lab </a></br>
+
 
 
 
