@@ -6,8 +6,8 @@ To build a virtualized environment replicating enterprise network infrastructure
 ## Network Layout Overview  
 The lab consists of multiple zones, including:  
 - Active Directory Zone: Centralized authentication using AD Server for internal client machines.  
-- Security Zone: Tools like Wazuh, Snort/Suricata and Kali Purple for threat detection and analysis.  
-- DMZ Zone: Isolated IIS, CentOS and TrueNas server for hosting web applications.  
+- Security Zone: Tools like Wazuh, Snort/Suricata and Kali Purple/ELK Server for threat detection and analysis.  
+- DMZ Zone: Isolated IIS, CentOS and TrueNAS server for hosting web applications.  
 - Guest Zone: Controlled access for external devices.  
 - Isolated Zone: Dedicated to offensive operations and vulnerability analysis.  
 
